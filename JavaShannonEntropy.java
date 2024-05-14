@@ -1,4 +1,4 @@
-//Made by the ArsCyber software trademark
+//Made by Denisov Arseny Yurievich . I believe in Christianity and TAO and that we meet with our dead relatives .
 
 package maxentropyalgorithm;
 
